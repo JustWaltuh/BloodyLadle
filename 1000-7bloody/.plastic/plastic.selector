@@ -1,0 +1,4 @@
+repository "1000-7bloody@AvanHeinz@cloud"
+  path "/"
+    br "/main"
+    co "/main"
